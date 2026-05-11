@@ -1,3 +1,5 @@
+# 一些乐评
+
 <div class="post-body">
 <div id="links">
 <style>
@@ -129,7 +131,6 @@
 </div>
 </div>
 </div>
-# 一些乐评
 
 ## 春日入侵企划 | AmagZ的春天必听推介
 
