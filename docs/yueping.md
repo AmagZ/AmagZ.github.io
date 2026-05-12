@@ -50,7 +50,7 @@
 .card .card-header a {
     font-style: normal;
     color: #608DBD;
-    font-weight: bold;
+    font-weight: 300;
     text-decoration: none;
 }
 .card .card-header a:hover {
@@ -61,6 +61,7 @@
     font-style: normal;
     color: #706f6f;
     font-size: 14px;
+    font-weight: 300;
     min-width: 0;
     overflow: visible;
     white-space: normal;
