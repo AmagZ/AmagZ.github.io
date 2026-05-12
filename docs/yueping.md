@@ -92,12 +92,12 @@
         </div>
     </div>
     <div class="card">
-        <img class="ava" src="https://i.stardots.io/wcowin/1750220860750.jpg" />
+        <img class="ava" src="https://raw.githubusercontent.com/AmagZ/AmagZ.github.io/refs/heads/main/docs/image.png" />
         <div class="card-header">
         <div>
-            <a href="https://macapp.org.cn" target="_blank">Macapp</a>
+            <a href="https://amagz.github.io/yueping/#_2" target="_blank">黑色柳丁</a>
         </div>
-        <div class="info">一个专注于分享Mac资源的频道</div>
+        <div class="info">用音乐发起一场爱的革命</div>
         </div>
     </div>
 
@@ -111,7 +111,7 @@
 
 突发奇想从自己的歌单里选出10首自己认为具有春天气质/春天常听的歌曲，组成一份歌单。
 
-Serenade to Spring  Secret Garden - 1995
+**Serenade to Spring  Secret Garden - 1995**
 
 一首New Age作为intro很是合适，钢琴与弦乐交织铺开，春天也慢慢苏醒
 
