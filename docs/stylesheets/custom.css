@@ -63,18 +63,6 @@
     white-space: normal;
 }
 
-.md-typeset {
-  font-family: "Microsoft YaHei Light", "Microsoft YaHei UI Light", "Microsoft YaHei", sans-serif;
-  font-weight: 300;
-}
-
-.md-typeset h1,
-.md-typeset h2,
-.md-typeset h3,
-.md-typeset h4 {
-  font-family: "Microsoft YaHei Light", "Microsoft YaHei UI Light", "Microsoft YaHei", sans-serif;
-}
-
 
 @media (max-width: 768px) {
     .link-navigation {
