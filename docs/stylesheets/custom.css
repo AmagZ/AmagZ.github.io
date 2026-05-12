@@ -75,3 +75,74 @@
         min-height: 80px;
     }
 }
+
+
+/* Waline 留言板整体 */
+#waline {
+  --waline-font-size: 0.82rem;
+  --waline-theme-color: #608dbd;
+  --waline-active-color: #d480aa;
+  --waline-border-color: rgba(120, 145, 160, 0.35);
+  --waline-bg-color: transparent;
+  --waline-bg-color-light: rgba(255, 255, 255, 0.04);
+  --waline-color: var(--md-default-fg-color);
+  --waline-light-grey: var(--md-default-fg-color--light);
+  --waline-dark-grey: var(--md-default-fg-color--light);
+  font-family: "Microsoft YaHei Light", "Microsoft YaHei UI Light", "Microsoft YaHei", sans-serif;
+  font-weight: 300;
+}
+
+/* 输入框外框 */
+#waline .wl-panel {
+  border: 1px solid rgba(120, 145, 160, 0.45);
+  border-radius: 14px;
+  background: rgba(255, 255, 255, 0.035);
+}
+
+/* 昵称、邮箱、网址输入栏 */
+#waline .wl-header input {
+  font-family: inherit;
+  font-weight: 300;
+  color: var(--md-default-fg-color);
+}
+
+/* 评论输入框 */
+#waline .wl-editor {
+  min-height: 10rem;
+  font-family: inherit;
+  font-weight: 300;
+  color: var(--md-default-fg-color);
+  background: rgba(255, 255, 255, 0.035);
+  border-radius: 10px;
+}
+
+/* 提交按钮 */
+#waline .wl-btn.primary {
+  background: #608dbd;
+  border-color: #608dbd;
+  color: #fff;
+  border-radius: 10px;
+  font-family: inherit;
+  font-weight: 400;
+}
+
+#waline .wl-btn.primary:hover {
+  background: #d480aa;
+  border-color: #d480aa;
+}
+
+/* 评论标题、排序 */
+#waline .wl-count,
+#waline .wl-sort li {
+  font-family: inherit;
+  font-weight: 300;
+}
+
+/* 暗色模式微调 */
+[data-md-color-scheme="slate"] #waline {
+  --waline-theme-color: #8bb7e0;
+  --waline-active-color: #e1a0c0;
+  --waline-border-color: rgba(190, 205, 215, 0.35);
+  --waline-bg-color-light: rgba(255, 255, 255, 0.045);
+}
+
