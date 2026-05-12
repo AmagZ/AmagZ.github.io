@@ -1,4 +1,5 @@
 # 一些乐评
+## Contents
 
 <div class="post-body">
 <div id="links">
@@ -91,24 +92,6 @@
         </div>
     </div>
     <div class="card">
-        <img class="ava" src="https://i.stardots.io/wcowin/1750089315509.png" />
-        <div class="card-header">
-        <div>
-            <a href="https://wcowin.work/" target="_blank">Wcowin’s blog</a>
-        </div>
-        <div class="info">这是一个分享技术的小站。</div>
-        </div>
-    </div>
-    <div class="card">
-        <img class="ava" src="https://i.loli.net/2020/05/14/5VyHPQqR6LWF39a.png" />
-        <div class="card-header">
-        <div>
-            <a href="https://twitter.com/" target="_blank">Twitter</a>
-        </div>
-        <div class="info">社交分享平台</div>
-        </div>
-    </div>
-    <div class="card">
         <img class="ava" src="https://i.stardots.io/wcowin/1750220860750.jpg" />
         <div class="card-header">
         <div>
@@ -117,15 +100,7 @@
         <div class="info">一个专注于分享Mac资源的频道</div>
         </div>
     </div>
-    <div class="card">
-        <img class="ava" src="https://i.stardots.io/wcowin/1750221795613.jpeg" />
-        <div class="card-header">
-        <div>
-            <a href="{link}" target="_blank">{name}</a>
-        </div>
-        <div class="info">{description}</div>
-        </div>
-    </div>
+
 
 </div>
 </div>
