@@ -24,6 +24,8 @@
     align-items: center;
     color: #333;
     justify-self: center;
+    font-family: "Microsoft YaHei Light", "Microsoft YaHei UI Light", "Microsoft YaHei", sans-serif;
+    font-weight: 300;
 }
 .card:hover {
     transform: translateY(0px) scale(1.05);
