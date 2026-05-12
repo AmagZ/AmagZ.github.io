@@ -83,7 +83,7 @@
 <div class="links-content">
 <div class="link-navigation">
     <div class="card">
-        <img class="ava" src="https://avatars.githubusercontent.com/jaywhj" />
+        <img class="ava" src="https://raw.githubusercontent.com/AmagZ/AmagZ.github.io/refs/heads/main/docs/sdl.jpg" />
         <div class="card-header">
             <div>
                 <a href="https://amagz.github.io/yueping/#amagz" target="_blank">春日入侵企划</a>
