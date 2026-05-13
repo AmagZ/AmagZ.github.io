@@ -3,7 +3,7 @@
 <div class="links-content">
 <div class="link-navigation">
     <div class="card">
-        <img class="ava" src="images/sdl.jpg" />
+        <img class="ava" src="../images/sdl.jpg" />
         <div class="card-header">
             <div>
                 <a href="https://amagz.github.io/yueping/#amagz" target="_blank">春日入侵企划</a>
@@ -12,7 +12,7 @@
         </div>
     </div>
     <div class="card">
-        <img class="ava" src="images/heiseliuding.png" />
+        <img class="ava" src="../images/heiseliuding.png" />
         <div class="card-header">
         <div>
             <a href="https://amagz.github.io/yueping/#_2" target="_blank">黑色柳丁</a>
