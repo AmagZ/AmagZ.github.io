@@ -96,7 +96,7 @@ Matrimonio di Jane  Claudio Capponi & Alessio Vlad - 1996
 ### 黑色柳丁
 > 用音乐发起一场爱的革命。
 
-![alt text](image.png)
+![alt text](heiseliuding.png)
 
 **前言**
 
