@@ -3,7 +3,7 @@
 
 <div class="photo-gallery">
   <a class="photo-card" href="../images/img(11).jpg" target="_blank">
-    <img src="../images/photograph/img(11).jpg" alt="摄影作品 1" loading="lazy">
+    <img src="../images/img(11).jpg" alt="摄影作品 1" loading="lazy">
     <span>春日街角</span>
   </a>
 
