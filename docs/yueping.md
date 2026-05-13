@@ -24,7 +24,8 @@
 </div>
 </div>
 
-## 春日入侵企划 | AmagZ的春天必听推介
+## Project Vivaldi of AmagZ
+### 春日入侵企划 | AmagZ的春天必听推介
 
 突发奇想从自己的歌单里选出10首自己认为具有春天气质/春天常听的歌曲，组成一份歌单。
 
@@ -77,13 +78,21 @@ Matrimonio di Jane  Claudio Capponi & Alessio Vlad - 1996
 这是高一合唱比赛的夺冠曲目
 歌词描摹的众多意象囊括四季 但笔者认为这首歌完全是春的气质
 ## 苏打绿
+### 夏/狂热
+### 冬 未了
+
 
 ## 陈绮贞
+
+### 吉他手 Groupies
+
 ## Radiohead
+### In Rainbows
+### OK Computer
 
 ## 陶喆
 
-### 黑色柳丁（上）
+### 黑色柳丁
 > 用音乐发起一场爱的革命。
 
 ![alt text](image.png)
@@ -291,3 +300,4 @@ https://zhuanlan.zhihu.com/p/585808489
 
 ## 周杰伦
 ### 我的周杰伦 Top 20
+### Jay 同名专辑
