@@ -25,7 +25,7 @@
 </div>
 
 ## Project Vivaldi of AmagZ
-### 春日入侵企划 | AmagZ的春天必听推介
+### 春日入侵企划
 
 突发奇想从自己的歌单里选出10首自己认为具有春天气质/春天常听的歌曲，组成一份歌单。
 
@@ -298,6 +298,11 @@ https://mp.weixin.qq.com/s/of8RubesKQWhODnKTfk7YQ
 [2]《陶喆同名专辑》陶喆 - @半岛铁头
 https://zhuanlan.zhihu.com/p/585808489
 
+## 万能青年旅店
+
+### 万能青年旅店 同名专辑
+
 ## 周杰伦
 ### 我的周杰伦 Top 20
 ### Jay 同名专辑
+### 太阳之子
