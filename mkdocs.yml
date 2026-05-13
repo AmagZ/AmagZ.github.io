@@ -4,8 +4,8 @@ site_author: AmagZ  # 作者信息
 
 nav:
     - Home: index.md
-    - 一些乐评: yueping.md
-    - 一些摄影: photo.md
+    - Music: yueping.md
+    - Photograph: photo.md
     - Econ: econ.md
 
 theme:
