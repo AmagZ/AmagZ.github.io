@@ -1,5 +1,4 @@
 # 一些乐评
-## Contents
 
 <div class="links-content">
 <div class="link-navigation">
