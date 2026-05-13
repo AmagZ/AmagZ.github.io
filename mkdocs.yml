@@ -4,7 +4,12 @@ site_author: AmagZ  # 作者信息
 
 nav:
     - Home: index.md
-    - Music: yueping.md
+    - Music: 
+        - Overview: musicreview/index.md
+        - 韦瓦第计划:
+            - 春日入侵企划: musicreview/Vivaldi/spring-playlist.md
+        - 陶喆:
+            - 黑色柳丁: musicreview/DT/heiseliuding.md
     - Photograph: photo.md
     - Econ: econ.md
 
