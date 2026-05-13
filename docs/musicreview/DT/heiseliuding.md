@@ -1,7 +1,6 @@
 ### 黑色柳丁
 > 用音乐发起一场爱的革命。
 
-![cover](../images/heiseliuding.png)
 
 **前言**
 
