@@ -146,3 +146,38 @@
   --waline-bg-color-light: rgba(255, 255, 255, 0.045);
 }
 
+.photo-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.photo-card {
+  display: block;
+  overflow: hidden;
+  border-radius: 10px;
+  text-decoration: none;
+  background: rgba(255, 255, 255, 0.04);
+}
+
+.photo-card img {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.25s ease, filter 0.25s ease;
+}
+
+.photo-card:hover img {
+  transform: scale(1.04);
+  filter: brightness(1.05);
+}
+
+.photo-card span {
+  display: block;
+  padding: 0.55rem 0.7rem;
+  color: var(--md-default-fg-color--light);
+  font-size: 0.78rem;
+}
+
