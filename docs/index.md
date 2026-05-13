@@ -1,7 +1,6 @@
-# 欢迎光临AmagZ的小站
-- 如你所见，AmagZ的咕咕嘎嘎日常
+# 如你所见，AmagZ的咕咕嘎嘎日常
 
-## Overview
+## 欢迎光临
 <div class="links-content">
 <div class="link-navigation">
     <div class="card">
