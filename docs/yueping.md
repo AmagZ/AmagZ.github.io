@@ -76,9 +76,12 @@ Matrimonio di Jane  Claudio Capponi & Alessio Vlad - 1996
 
 这是高一合唱比赛的夺冠曲目
 歌词描摹的众多意象囊括四季 但笔者认为这首歌完全是春的气质
+## 苏打绿
 
+## 陈绮贞
+## Radiohead
 
-## **David Tao**
+## 陶喆
 
 ### 黑色柳丁（上）
 > 用音乐发起一场爱的革命。
@@ -286,4 +289,5 @@ https://mp.weixin.qq.com/s/of8RubesKQWhODnKTfk7YQ
 [2]《陶喆同名专辑》陶喆 - @半岛铁头
 https://zhuanlan.zhihu.com/p/585808489
 
-## **Jay Chou**
+## 周杰伦
+### 我的周杰伦 Top 20
