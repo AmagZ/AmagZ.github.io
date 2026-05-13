@@ -16,7 +16,7 @@
         <img class="ava" src="https://raw.githubusercontent.com/AmagZ/AmagZ.github.io/refs/heads/main/docs/images/heiseliuding.png" />
         <div class="card-header">
         <div>
-            <a href="https://amagz.github.io/photo" target="_blank">一些摄影</a>
+            <a href="https://amagz.github.io/photo/" target="_blank">一些摄影</a>
         </div>
         <div class="info">用音乐发起一场爱的革命</div>
         </div>
