@@ -30,7 +30,7 @@
         </div>
     </div>
     <div class="card">
-        <img class="ava" src="https://raw.githubusercontent.com/AmagZ/AmagZ.github.io/refs/heads/main/docs/images/heiseliuding.png" />
+        <img class="ava" src="https://raw.githubusercontent.com/AmagZ/AmagZ.github.io/refs/heads/main/docs/images/groupies.webp" />
         <div class="card-header">
         <div>
             <a href="https://amagz.github.io/yueping/#_2" target="_blank"吉他手 Groupies</a>
