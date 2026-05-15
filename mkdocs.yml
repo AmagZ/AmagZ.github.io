@@ -17,8 +17,9 @@ nav:
             - In Rainbows: musicreview/Radiohead/inrainbows.md
             - OK Computer: musicreview/Radiohead/okc.md
         - 陶喆:
-            - David Tao 同名专辑: musicreview/DT/David Tao.md
-            - 黑色柳丁: musicreview/DT/heiseliuding.md
+            - musicreview/DT/index.md
+                - David Tao 同名专辑: musicreview/DT/David Tao.md
+                - 黑色柳丁: musicreview/DT/heiseliuding.md
         - 周杰伦:
             - 我的周杰伦 Top20: musicreview/Jay/Jaytop20.md
             - Jay 同名专辑: musicreview/Jay/jay.md
