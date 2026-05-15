@@ -33,9 +33,18 @@
         <img class="ava" src="https://raw.githubusercontent.com/AmagZ/AmagZ.github.io/refs/heads/main/docs/images/groupies.webp" />
         <div class="card-header">
         <div>
-            <a href="https://amagz.github.io/yueping/#_2" target="_blank"吉他手 Groupies</a>
+            <a href="https://amagz.github.io/yueping/#_2" target="_blank">吉他手Groupies</a>
         </div>
         <div class="info">只是怕爱你的心被你看透</div>
+        </div>
+    </div>
+    <div class="card">
+        <img class="ava" src="https://raw.githubusercontent.com/AmagZ/AmagZ.github.io/refs/heads/main/docs/images/inrainbows.avif" />
+        <div class="card-header">
+        <div>
+            <a href="https://amagz.github.io/yueping/#_2" target="_blank">In Rainbows</a>
+        </div>
+        <div class="info">balabalabalabala</div>
         </div>
     </div>
 
