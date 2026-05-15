@@ -20,6 +20,24 @@
         <div class="info">用音乐发起一场爱的革命</div>
         </div>
     </div>
+    <div class="card">
+        <img class="ava" src="https://raw.githubusercontent.com/AmagZ/AmagZ.github.io/refs/heads/main/docs/images/heiseliuding.png" />
+        <div class="card-header">
+        <div>
+            <a href="https://amagz.github.io/yueping/#_2" target="_blank">我的周杰伦Top20</a>
+        </div>
+        <div class="info">趁时间没发觉 让我带着你离开</div>
+        </div>
+    </div>
+    <div class="card">
+        <img class="ava" src="https://raw.githubusercontent.com/AmagZ/AmagZ.github.io/refs/heads/main/docs/images/heiseliuding.png" />
+        <div class="card-header">
+        <div>
+            <a href="https://amagz.github.io/yueping/#_2" target="_blank"吉他手 Groupies</a>
+        </div>
+        <div class="info">只是怕爱你的心被你看透</div>
+        </div>
+    </div>
 
 </div>
 </div>
