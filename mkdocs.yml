@@ -7,13 +7,17 @@ nav:
     - Music: 
         - Overview: musicreview/index.md
         - AmagZ的韦瓦第计划:
+            - musicreview/Vivaldi/index.md
             - 春日入侵企划: musicreview/Vivaldi/spring-playlist.md
         - 苏打绿:
+            - musicreview/Sodagreen/index.md
             - 夏/狂热: musicreview/Sodagreen/summer.md
             - 冬 未了: musicreview/Sodagreen/winter.md
         - 陈绮贞: 
+            - musicreview/Chen Qizhen/index.md
             - 吉他手 Groupies: musicreview/Chen Qizhen/Groupies.md
         - Radiohead:
+            - musicreview/Radiohead/index.md
             - In Rainbows: musicreview/Radiohead/inrainbows.md
             - OK Computer: musicreview/Radiohead/okc.md
         - 陶喆: 
@@ -26,6 +30,7 @@ nav:
             - Jay 同名专辑: musicreview/Jay/jay.md
             - 太阳之子: musicreview/Jay/taiyangzhizi.md
         - 万能青年旅店:
+            - musicreview/Wanqing/index.md
             - 万能青年旅店 同名专辑: musicreview/Wanqing/wnqnld.md
     - Photograph: photo.md
     - Econ: econ.md
