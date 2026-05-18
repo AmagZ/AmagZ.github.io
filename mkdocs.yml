@@ -32,7 +32,8 @@ nav:
         - 万能青年旅店:
             - musicreview/Wanqing/index.md
             - 万能青年旅店 同名专辑: musicreview/Wanqing/wnqnld.md
-    - Photograph: photo.md
+    - Photograph: 
+        - photograph/index.md
     - Econ: econ.md
 
 theme:
