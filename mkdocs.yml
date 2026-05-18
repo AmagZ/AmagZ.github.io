@@ -34,6 +34,9 @@ nav:
             - 万能青年旅店 同名专辑: musicreview/Wanqing/wnqnld.md
     - Photograph: 
         - photograph/index.md
+        - 紫金港: photograph/zjg.md
+        - 上海: photograph/shanghai.md
+        - 北京: photograph/beijing.md
     - Econ: econ.md
 
 theme:
