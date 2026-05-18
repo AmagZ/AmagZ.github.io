@@ -1,7 +1,9 @@
 # 夏 / 狂热 FEVER
 
-> Performer: Sodagreen\\
-> Genre: Pop Rock/Alt Rock/Britpop\\
+> Performer: Sodagreen
+> 
+> Genre: Pop Rock/Alt Rock/Britpop
+> 
 > Release: 2009
 
 <p align="center">
