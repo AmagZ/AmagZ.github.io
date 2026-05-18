@@ -1,10 +1,14 @@
 # 夏 / 狂热 FEVER
 
-> Performer: Sodagreen
-> Genre: Pop Rock/Alt Rock/Britpop
+> Performer: Sodagreen\\
+> Genre: Pop Rock/Alt Rock/Britpop\\
 > Release: 2009
 
-### 01 掌声落下
+<p align="center">
+  <img src="../../images/fever.jpg" alt="夏狂热封面" width="420">
+</p>
+
+## 01 掌声落下
 宛若踢踏舞般齐整的掌声开场，《掌声落下》在吉他拨弦、和声和钢琴开始之初就编织出独属于夏天也贯穿这张专辑的“嘈杂感”，弦乐的细密的紧张情绪与苏打绿所代表的“Indie Band”流行摇滚元素相贯穿。《夏 / 狂热》的开场摆动在严整与失序之间，三大件的共同发声时起时落牢牢掌控你的听觉。
 
 ### 02 他夏了夏天
